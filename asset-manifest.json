@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rap-quotes-generator/static/css/main.d0cf4f7f.css",
+    "main.js": "/rap-quotes-generator/static/js/main.89ab77e4.js",
+    "static/js/453.38236502.chunk.js": "/rap-quotes-generator/static/js/453.38236502.chunk.js",
+    "index.html": "/rap-quotes-generator/index.html",
+    "main.d0cf4f7f.css.map": "/rap-quotes-generator/static/css/main.d0cf4f7f.css.map",
+    "main.89ab77e4.js.map": "/rap-quotes-generator/static/js/main.89ab77e4.js.map",
+    "453.38236502.chunk.js.map": "/rap-quotes-generator/static/js/453.38236502.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0cf4f7f.css",
+    "static/js/main.89ab77e4.js"
+  ]
+}
